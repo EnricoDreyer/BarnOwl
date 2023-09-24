@@ -94,8 +94,8 @@
 	.primary-menu .menu-container .menu-link {
 		padding-left: 22px;
 		padding-right: 22px;
-		font-size: 12px;
-		font-weight: 400;
+		font-size: 14px;
+		font-weight: bold;
 		letter-spacing: 3px;
 	}
 
@@ -214,9 +214,9 @@ body.side-panel-left.side-push-panel.side-panel-open.stretched #header .containe
 ---------------------------------------------------------------------------- */
 
 .more-link {
-	font-weight: 400;
 	border-bottom-width: 1px;
 	font-style: normal;
+	font-weight: bold;
 }
 
 .more-link i.icon-angle-right {
@@ -635,7 +635,7 @@ textarea.border-form-control {
 	}
 
 	#header.transparent-header.dark:not(.sticky-header) #header-wrap {
-		background-color: #333;
+		background-color: #111010;
 		border-bottom-color: rgba(255,255,255,0.1) !important;
 	}
 
@@ -643,7 +643,7 @@ textarea.border-form-control {
 	.dark #header.semi-transparent #header-wrap,
 	#header.dark.transparent-header #header-wrap,
 	#header.dark.semi-transparent #header-wrap {
-		background-color: #333;
+		background-color: #111010;
 		border-bottom-color: rgba(255,255,255,0.1);
 	}
 
