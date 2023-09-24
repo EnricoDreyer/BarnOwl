@@ -3398,6 +3398,10 @@ html[xmlns] .slider-wrap {
 	Logo
 -----------------------------------------------------------------*/
 
+.logo-text{
+	margin-bottom: 0 !important;
+	font-size: 20px;
+}
 
 #logo {
 	position: relative;
