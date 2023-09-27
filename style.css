@@ -3398,6 +3398,13 @@ html[xmlns] .slider-wrap {
 	Logo
 -----------------------------------------------------------------*/
 
+.center {
+	display: flex;
+	align-items: center; /* Vertical alignment */
+	justify-content: center; /* Horizontal alignment */
+	height: 300px; /* Set the desired height for your div */
+}
+
 .logo-text{
 	margin-bottom: 0 !important;
 	font-size: 20px;
