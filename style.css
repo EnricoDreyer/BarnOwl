@@ -3398,7 +3398,7 @@ html[xmlns] .slider-wrap {
 	Logo
 -----------------------------------------------------------------*/
 
-.center {
+.center-logo {
 	display: flex;
 	align-items: center; /* Vertical alignment */
 	justify-content: center; /* Horizontal alignment */
